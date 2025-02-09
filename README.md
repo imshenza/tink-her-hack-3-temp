@@ -1,60 +1,63 @@
-# [Project Name] 🎯
+# Happen 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Sudoku
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Shenza K P - CUSAT
+- Member 2: Swathy M - CUSAT
+- Member 3: Parvathy Santhosh - CUSAT
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Our chatbot is designed to assist users in planning their events with ease. It generates customized itineraries based on user input and integrates with user profiles to suggest the best event planning options.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Planning an event can be a headache—figuring out the schedule, managing catering options, and handling every little detail can be overwhelming. Our chatbot takes the stress out of planning!
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+We’ve built an AI-powered event planning chatbot that helps users plan their events by generating itineraries, offering suggestions, and providing instant feedback, all while learning the user’s preferences.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+For Software:
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Languages used: Python
+- Frameworks used: Streamlit, OpenAI API
+- Libraries used: reportlab (for generating PDFs), - - python-dotenv (for environment variables)
+- Tools used: Firebase (for authentication), OpenAI - API (for generating itineraries)
 
 ### Implementation
-For Software:
+
+
 # Installation
-[commands]
+For Software: pip install streamlit python-dotenv openai reportlab pillow
 
 # Run
-[commands]
+streamlit run app.py
+
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![alt text](image.png)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![alt text](image-1.png)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![alt text](image-2.png)
 *Add caption explaining what this shows*
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
