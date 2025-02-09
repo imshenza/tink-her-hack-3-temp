@@ -14,7 +14,7 @@
 [mention your project hosted project link here]
 
 ### Project Description
-Our chatbot is designed to assist users in planning their events with ease. It generates customized itineraries based on user input and integrates with user profiles to suggest the best event planning options.
+Our chatbot is designed to assist users in planning their events with ease. It generates customized itineraries based on user input and integrates with user profiles to suggest the best event planning options. It lets you download the final iterinary in a pdf format for further use.
 
 ### The Problem statement
 Planning an event can be a headache—figuring out the schedule, managing catering options, and handling every little detail can be overwhelming. Our chatbot takes the stress out of planning!
